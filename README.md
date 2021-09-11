@@ -6,5 +6,5 @@ you can view chrome version in chrome://version, paste this in url bar and see t
 
 The Path for text box and button changes as tweeter changes please update if it's not working.
 Tips to update: use role="textbox" and role="button" attribute to search correct buttons.
-use copy xpath method in chrome developer tools
+Use copy xpath method in chrome developer tools.
 environment.yml is added to check my conda environment, Please create a issue if any problem persist. 
